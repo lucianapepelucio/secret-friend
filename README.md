@@ -23,11 +23,6 @@ cd sorteador-amigo-secreto
 
 ![Imagem da página do participante sorteado no desktop](./src/assets/03.png)
 
-![Imagem da página inicial no mobile](./src/assets/04.png)
-
-![Imagem da página do participante sorteado no mobile](./src/assets/05.png)
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

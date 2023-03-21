@@ -1,3 +1,33 @@
+# Sorteador de Amigo Secreto
+
+O objetivo dessa aplicação é garantir que cada pessoa sorteie alguém que não seja si próprio e não deixar que o mesmo nome seja cadastrado mais de uma vez, e o mesmo participante não seja sorteado mais de uma vez também.
+
+## Para acessar o projeto:
+
+````
+cd sorteador-amigo-secreto
+````
+## Tecnologias e Ferramentas Utilizadas:
+
+- React
+- Typescript
+- CSS
+- Jest
+- React Testing Library
+
+## Layout da Aplicação:
+
+![Imagem da página inicial no desktop](./src/assets/01.png)
+
+![Imagem da página de sorteio no desktop](./src/assets/02.png)
+
+![Imagem da página do participante sorteado no desktop](./src/assets/03.png)
+
+![Imagem da página inicial no mobile](./src/assets/04.png)
+
+![Imagem da página do participante sorteado no mobile](./src/assets/05.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

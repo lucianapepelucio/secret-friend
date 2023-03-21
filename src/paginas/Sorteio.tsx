@@ -36,7 +36,7 @@ const Sorteio = () => {
                     <option>Selecione seu nome</option>
                     {participantes.map(participante => <option key={participante}>{participante}</option>)}
                 </select>
-                <p>Clique em em sortear para ver quem é seu amigo secreto!</p>
+                <p>Clique em sortear para ver quem é seu amigo secreto!</p>
                 <button className="botao-sortear">Sortear</button>
             </form>
             {amigoSecreto && <p className="resultado" role="alert">{amigoSecreto}</p>}
